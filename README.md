@@ -40,7 +40,6 @@
 
    ```bash
    git clone https://github.com/blessedforyou/DjangoGame.git
-   cd game-app
    
 2. **Установка зависимостей:**
 
